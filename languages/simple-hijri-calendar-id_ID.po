@@ -1,0 +1,77 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Simple Hijri Calendar 1.0\n"
+"POT-Creation-Date: 2015-04-16 19:32+0700\n"
+"PO-Revision-Date: 2015-04-16 19:32+0700\n"
+"Last-Translator: Tommy Pradana <tom.pradana@gmail.com>\n"
+"Language-Team: Tommy Pradana <tom.pradana@gmail.com>\n"
+"Language: id\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: __;_e;_x;_n;esc_html__;esc_html_e;esc_attr__;"
+"esc_attr_e;esc_attr_x\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: simple-hijri-calendar-widget.php:14
+msgid "Simple hijri calendar widget"
+msgstr "Widget kalender hijriah sederhana"
+
+#: simple-hijri-calendar-widget.php:15 simple-hijri-calendar-widget.php:27
+#: simple-hijri-calendar-widget.php:74
+msgid "Simple Hijri Calendar"
+msgstr "Widget Kalender Hijriah"
+
+#: simple-hijri-calendar-widget.php:82
+msgid "Title:"
+msgstr "Judul:"
+
+#: simple-hijri-calendar-widget.php:87
+msgid "Format:"
+msgstr "Format:"
+
+#: simple-hijri-calendar-widget.php:89
+msgid "Example: l, jS F, Y. For complete list time formatting, read:"
+msgstr "Contoh: l, jS F, Y. Untuk daftar lengkap format waktu, baca:"
+
+#: simple-hijri-calendar-widget.php:89
+msgid "Documentation on date and time formatting."
+msgstr ""
+
+#: simple-hijri-calendar-widget.php:93
+msgid "Language:"
+msgstr "Bahasa:"
+
+#: simple-hijri-calendar-widget.php:95
+msgid "Arabic"
+msgstr "Bahasa Arab"
+
+#: simple-hijri-calendar-widget.php:96
+msgid "English"
+msgstr "Bahasa Inggris"
+
+#: simple-hijri-calendar-widget.php:101
+msgid "Fonts:"
+msgstr "Font:"
+
+#: simple-hijri-calendar-widget.php:103
+msgid "&mdash; Select Fonts &mdash;"
+msgstr "&mdash; Pilih Font &mdash;"
+
+#: simple-hijri-calendar-widget.php:119
+msgid "Align:"
+msgstr "Perataan"
+
+#: simple-hijri-calendar-widget.php:121
+msgid "Left"
+msgstr "Kiri"
+
+#: simple-hijri-calendar-widget.php:122
+msgid "Center"
+msgstr "Tengah"
+
+#: simple-hijri-calendar-widget.php:123
+msgid "Right"
+msgstr "Kanan"

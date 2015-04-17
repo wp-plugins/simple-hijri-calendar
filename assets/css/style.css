@@ -1,0 +1,20 @@
+.simple-hijri-calendar {
+    font-size: 16px;
+}
+
+.simple-hijri-calendar.arabic {
+    direction: rtl !important;
+}
+
+.simple-hijri-calendar.alignleft {
+    text-align: left;
+}
+
+.simple-hijri-calendar.aligncenter {
+    text-align: center;
+}
+
+.simple-hijri-calendar.alignright {
+    text-align: right;
+}
+
