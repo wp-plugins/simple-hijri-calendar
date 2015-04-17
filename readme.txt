@@ -29,7 +29,7 @@ Very simple hijri calendar widget plugin.
 
 == Installation ==
 
-The quickest method for installing the importer is:
+The quickest method for installing the simple hijri calendar is:
 
 1. Visit Tools -> Import in the WordPress dashboard
 1. Click on the WordPress link in the list of importers
@@ -60,3 +60,4 @@ none
 == Upgrade Notice ==
 
 none
+
