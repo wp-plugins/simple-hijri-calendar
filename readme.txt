@@ -51,6 +51,7 @@ none
 == Screenshots ==
 
 1. Simple hijri calendar widget on twentyfifteen
+2. Simple hijri calendar widget settings
 
 == Changelog ==
 
