@@ -22,7 +22,7 @@ Very simple hijri calendar widget plugin.
 * Translation ready
 * Easy to style
 
-= credits =
+= Credits =
 
 * http://aziz.oraij.com/
 * http://www.phpclasses.org/contact/package/6626.html
